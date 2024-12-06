@@ -24,20 +24,20 @@ Write step-by-step instructions to help developers replicate the bug. Example:
 4. Observe the ship falling through the terrain.
 
 #### **2.3 Include Expected vs. Actual Behavior**
-- **Expected**: What you believe should have happened.
-- **Actual**: What actually occurred.
+- **Expected**: What you believe should have happened (I sailed under the bridge and passed under it from one side to the other.
+- **Actual**: What actually occurred (I sailed under the bridge and fell through the map. I was unable to progress).
 
 #### **2.4 Attach Evidence**
 - **Screenshots**: Highlight visual bugs or incorrect UI elements.
 - **Videos**: Provide context for animation or timing issues.
 - **Logs**: If the game produces crash logs, attach them to the issue.
 
-#### **2.5 Specify Environment Details**
+#### **2.5 Specify Environment Details in Description Section**
 - **Game version or build number**.
 - **Platform**: PC, Mac, etc.
 - **Operating system**: Windows 11, macOS Monterey, etc.
-- **Hardware**: CPU, GPU, RAM.
-- **Game settings**: Resolution, graphics quality, etc.
+- **Hardware**: CPU, GPU,
+- **Game settings**: Resolution.
 
 #### **2.6 Assign Labels**
 Use GitHub's labeling system to categorize issues:

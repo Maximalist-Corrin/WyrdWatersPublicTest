@@ -59,7 +59,6 @@ Your goal is to identify **technical problems**, not design critiques. Examples 
 #### **Gameplay Bugs**:
 - Incorrect physics behavior (e.g., floating objects).
 - Missing or incorrect collision detection.
-- Broken quests or objectives.
 
 #### **Visual Issues**:
 - Texture clipping or stretching.
@@ -77,7 +76,7 @@ Your goal is to identify **technical problems**, not design critiques. Examples 
 - Multiplayer desyncs.
 - Connection issues.
 
-Avoid commenting on subjective design choices (e.g., "I don’t like how this character looks" or "This level is too hard"). Instead, focus on objective issues.
+Avoid commenting on subjective design choices (e.g., "I don’t like how this rock looks" or "This level is too hard"). Instead, focus on objective issues.
 
 ---
 
@@ -112,7 +111,7 @@ Avoid commenting on subjective design choices (e.g., "I don’t like how this ch
 - **Game Version**: 1.2.4
 - **Platform**: PC
 - **OS**: Windows 11
-- **Hardware**: Intel i7, 16GB RAM, NVIDIA RTX 3060
+- **Hardware**: Intel i7, NVIDIA RTX 3060
 
 **Attachments**:
 - Screenshot of error message.
@@ -126,9 +125,9 @@ Avoid commenting on subjective design choices (e.g., "I don’t like how this ch
 
 - **Be Curious**: Try unusual actions to uncover edge cases (e.g., what happens if you open the menu during a cutscene?).
 - **Be Patient**: Some bugs are hard to reproduce; don’t give up too quickly.
-- **Be Thorough**: Explore all possible interactions with objects, NPCs, and menus.
+- **Be Thorough**: Explore all possible interactions with objects, and menus.
 
 ---
 
-Thank you for your hard work and dedication to improving *Wyrd Waters*! Together, we’ll create an exceptional game.
+Thank you for your hard work and dedication! Together, we are improving *Wyrd Waters*! Let's create an exceptional game.
 

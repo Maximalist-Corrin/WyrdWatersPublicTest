@@ -3,7 +3,7 @@
 ## **Best Practices for QA Testing**
 
 ### **1. Test Methodically**
-- **Explore Thoroughly**: Play the game as intended but also try actions that might break it. Test features systematically (e.g., menu interactions, combat mechanics, and quest progression).
+- **Explore Thoroughly**: Play the game as intended but also try actions that might break it. Test features systematically (e.g., menu interactions, combat mechanics).
 - **Reproduce Issues**: Before reporting a bug, attempt to recreate it multiple times to confirm consistency.
 
 ---
